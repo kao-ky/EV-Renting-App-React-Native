@@ -4,6 +4,12 @@ A simplified academic React Native group project that contains Owner and Renter 
 <br/>
 
 ## Description
+### Common
+For simplicity, user registration function is not provided in both applications.
+Refer to the `Schema` Section for Users detail.
+
+<br/>
+
 ### Owner App 
 This app allows users to create listings and accept or decline booking requests
 
