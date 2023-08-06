@@ -5,8 +5,13 @@ A simplified academic React Native group project that contains Owner and Renter 
 
 ## Description
 ### Common
-For simplicity, user registration function is not provided in both applications.
-Refer to the `Schema` Section for Users detail.
+For simplicity, these features are implemented: 
+- user registration function is not provided in both applications.
+  Refer to the `Schema` Section for Users detail.
+
+- The booking date for the vehicle is default to a random date.
+
+- A 6-character booking reference upon `Confirmed` status is generated.
 
 <br/>
 
