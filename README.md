@@ -32,6 +32,11 @@ Users can be created through Firebase Auth.
 
 <br/>
 
+Vehicle information on Listings in Owner App is provided by `OwnerApp/api/vehicle.json` hosted on GitHub.
+Change the API connection if the hosted one does not work.
+
+<br/>
+
 ## Demonstration
 
 ### Owner App
