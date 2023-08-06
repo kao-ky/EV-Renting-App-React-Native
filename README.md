@@ -51,7 +51,7 @@ Change the API connection if the hosted one does not work.
 <br/>
 
 <p align="center">
-<img src="docs/OwnerApp/view_listing.png" style=" width:250px" >
+<img src="docs/OwnerApp/view_bookings.png" style=" width:250px" >
 &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="docs/OwnerApp/view_filtered_bookings.png" style=" width:250px" >
 </p>
